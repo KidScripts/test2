@@ -1,8 +1,8 @@
 alert("Thank Devin For This.")
 function m() {
-    var r='',c='ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789'
+    var r='',c='Devin'
     for ( var i = 0; i < 5; i++ ) {
-      r += c.charAt(Math.floor(Math.random() * 36));
+      r += c.charAt(Math.floor(Math.random() * 1));
    }
    return r;
 }
