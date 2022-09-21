@@ -1,3 +1,4 @@
+alert("Thank Devin For This.")
 function m() {
     var r='',c='ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789'
     for ( var i = 0; i < 5; i++ ) {
